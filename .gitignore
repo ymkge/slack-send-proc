@@ -1,0 +1,21 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# etc
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.local/
+.profile
+.python_history
+.selected_editor
+.ssh/
+.viminfo
+python/
+config.json
+test.ipynb
+.ipynb_checkpoints/test-checkpoint.ipynb
+cron_*

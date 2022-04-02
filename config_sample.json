@@ -1,0 +1,4 @@
+{
+    "slack_webhook_url_chihua": "{自分で登録したwebhook_urlを指定する}",
+    "slack_api_token_chihua":"{自分で登録したslackbotのapi_tokenを指定する}"
+}   
