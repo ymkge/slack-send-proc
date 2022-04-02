@@ -69,7 +69,7 @@ def slack_send(df_japan):
     TEXT = f"前日の感染者数は「{yesterday_uu}人」ワン。１週間分の平均が「{one_week_moving_average_uu}人」なので、比較すると「{(rate * 100).round(2)}%」になったワン! \n {chihua_talk}"
     
     # main処理内で作成したPNGを読み込む
-    files = {'file': open("covid_observation_graph.png", 'rb')}
+    files = {'file': open("covid_graph.png", 'rb')}
     param = {
         'token': TOKEN, 
         'channels': CHANNEL,
