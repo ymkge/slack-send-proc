@@ -1,5 +1,3 @@
-# slack-send-proc
-
 # COVID-19 Daily Report to Slack
 
 ---
